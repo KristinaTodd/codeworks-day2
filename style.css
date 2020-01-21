@@ -1,19 +1,11 @@
 header {
   text-align: center;
-  background-color: blue;
+  background-color:darkblue;
   border-style: solid;
   border-color: black;
   border-width: .1em;
 }
 
-.footer {
-  background-color: blue;
-  border-style: solid;
-  border-color: black;
-  border-width: .1em;
-  padding: 1em;
-
-}
 
 .image {
   width: 8em;
@@ -26,6 +18,9 @@ header {
   background-color: darkblue;
   height: 4em;
   width: 100%;
+  border-style: solid;
+  border-color: black;
+  border-width: .1em;
   position: absolute;
   bottom: 0;
 }
