@@ -1,0 +1,52 @@
+header {
+  text-align: center;
+  background-color: blue;
+  border-style: solid;
+  border-color: black;
+  border-width: .1em;
+}
+
+.footer {
+  background-color: blue;
+  border-style: solid;
+  border-color: black;
+  border-width: .1em;
+  padding: 1em;
+
+}
+
+.image {
+  width: 8em;
+  height: 8em;
+
+
+}
+
+.bottom {
+  background-color: darkblue;
+  height: 4em;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
+.whatever {
+  float: right;
+  margin-top: 2em;
+}
+
+.paragraph {
+  float: left;
+  width: 50%;
+  height: 75%;
+  margin-left: 2em;
+}
+.paragraph.title {
+    text-align: center;
+}
+
+.bar {
+  background-color: cadetblue;
+  padding: .25em;
+
+}
